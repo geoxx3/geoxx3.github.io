@@ -1,0 +1,15 @@
+/* style sheet for Example Cafe */
+body {
+font-family : arial, verdana, sans-serif;
+}
+h2 {
+font-family : georgia, times, serif;
+color : #666666;
+}
+#navigation a {
+color:#3399cc;
+}
+#navigation a {
+color : #3399cc;
+text-decoration : none;
+}
